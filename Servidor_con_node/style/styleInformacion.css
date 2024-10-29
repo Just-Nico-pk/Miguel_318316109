@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f78787;
+}
+
+.cuerpo{
+    width: 800px;
+    background: rgb(240, 215, 135); 
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 50px;
+    font-family: 'calibri';
+    color: rgb(231, 84, 15);
+    box-shadow: 7px 13px 37px #000;
+}
+.cuerpo h4{
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.cuerpo p{
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: justify;
+    color: #000;
+}
